@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/dashboard/admin/page": "/dashboard/admin",
+  "/contact/page": "/contact",
+  "/dashboard/admin/users/page": "/dashboard/admin/users",
+  "/dashboard/manager/page": "/dashboard/manager",
+  "/dashboard/rep/commission/page": "/dashboard/rep/commission",
+  "/dashboard/manager/team/page": "/dashboard/manager/team",
+  "/dashboard/rep/deals/page": "/dashboard/rep/deals",
+  "/dashboard/rep/leads/page": "/dashboard/rep/leads",
+  "/dashboard/rep/page": "/dashboard/rep",
+  "/help/page": "/help",
+  "/login/page": "/login",
+  "/page": "/",
+  "/pricing/page": "/pricing",
+  "/register/page": "/register",
+  "/solutions/page": "/solutions"
+}
