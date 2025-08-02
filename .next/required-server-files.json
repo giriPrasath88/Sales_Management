@@ -98,7 +98,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\LENOVO\\Downloads\\Sales_Management",
+    "outputFileTracingRoot": "D:\\Sales_Management",
     "experimental": {
       "useSkewCookie": false,
       "nodeMiddleware": false,
@@ -289,10 +289,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\LENOVO\\Downloads\\Sales_Management"
+      "root": "D:\\Sales_Management"
     }
   },
-  "appDir": "C:\\Users\\LENOVO\\Downloads\\Sales_Management",
+  "appDir": "D:\\Sales_Management",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
